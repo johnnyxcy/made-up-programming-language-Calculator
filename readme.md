@@ -10,9 +10,10 @@ The calculator supports the following feature:
 6. Clear all or specific local bindings (`clear id`; `clear`)
 7. Unary minus operators (`-(a + b)`)
 8. Error message (such as undefined local variables, unclosed parenthese, etc.)
+9. Exit command (`exit`; `quit`)
 
 ## Usage
 
-```
+```{ruby}
     > ruby calc.rb
 ```
